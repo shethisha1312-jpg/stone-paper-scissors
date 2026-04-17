@@ -62,3 +62,12 @@ img{
 .mes-container{
     margin-top: 5rem;
 }
+#msg{
+    background-color: #509ef7;
+    color: #100f0f;
+    height: 5rem;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius: 1rem;
+}
